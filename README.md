@@ -3,7 +3,7 @@
 Free auto fishing for Roblox *Fisch*. It casts, waits for the bite, answers the shake, and reels
 the fish in — by watching your screen, not by clicking on a timer.
 
-**[Download the latest release](../../releases/latest)** · **[Website, setup guide and FAQ](https://fischbot.pages.dev)**
+**[Download the latest release](../../releases/latest)** · **[Website, setup guide and FAQ](https://fischbot.cirim12.workers.dev)**
 
 This repository holds the builds only. Every release lists the file's SHA-256 and links a
 VirusTotal report, so you can check that the file you downloaded is the file that was scanned.
